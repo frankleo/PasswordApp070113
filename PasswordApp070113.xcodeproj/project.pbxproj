@@ -18,6 +18,30 @@
 		E120193A1782568100898AB3 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E12019391782568100898AB3 /* Default-568h@2x.png */; };
 		E120193D1782568100898AB3 /* QCViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E120193C1782568100898AB3 /* QCViewController.m */; };
 		E12019401782568100898AB3 /* QCViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = E120193E1782568100898AB3 /* QCViewController.xib */; };
+		E120194B1782578200898AB3 /* SignInViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E12019491782578200898AB3 /* SignInViewController.m */; };
+		E120194C1782578200898AB3 /* SignInViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = E120194A1782578200898AB3 /* SignInViewController.xib */; };
+		E1201951178257D300898AB3 /* CreateAccountViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E120194F178257D300898AB3 /* CreateAccountViewController.m */; };
+		E1201952178257D300898AB3 /* CreateAccountViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = E1201950178257D300898AB3 /* CreateAccountViewController.xib */; };
+		E12019571782582300898AB3 /* PasswordFeedViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E12019551782582300898AB3 /* PasswordFeedViewController.m */; };
+		E12019581782582300898AB3 /* PasswordFeedViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = E12019561782582300898AB3 /* PasswordFeedViewController.xib */; };
+		E120195D1782587300898AB3 /* HomeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E120195B1782587300898AB3 /* HomeViewController.m */; };
+		E120195E1782587300898AB3 /* HomeViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = E120195C1782587300898AB3 /* HomeViewController.xib */; };
+		E1201963178258C800898AB3 /* AddLockerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E1201961178258C800898AB3 /* AddLockerViewController.m */; };
+		E1201964178258C800898AB3 /* AddLockerViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = E1201962178258C800898AB3 /* AddLockerViewController.xib */; };
+		E1201969178258E400898AB3 /* PasswordItemViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E1201967178258E400898AB3 /* PasswordItemViewController.m */; };
+		E120196A178258E400898AB3 /* PasswordItemViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = E1201968178258E400898AB3 /* PasswordItemViewController.xib */; };
+		E120196F178258FE00898AB3 /* AddPasswordViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E120196D178258FE00898AB3 /* AddPasswordViewController.m */; };
+		E1201970178258FE00898AB3 /* AddPasswordViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = E120196E178258FE00898AB3 /* AddPasswordViewController.xib */; };
+		E12019751782592A00898AB3 /* EditPasswordViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E12019731782592A00898AB3 /* EditPasswordViewController.m */; };
+		E12019761782592A00898AB3 /* EditPasswordViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = E12019741782592A00898AB3 /* EditPasswordViewController.xib */; };
+		E120197B1782595A00898AB3 /* SettingsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E12019791782595A00898AB3 /* SettingsViewController.m */; };
+		E120197C1782595A00898AB3 /* SettingsViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = E120197A1782595A00898AB3 /* SettingsViewController.xib */; };
+		E1201981178259AD00898AB3 /* AutoLogoutViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E120197F178259AD00898AB3 /* AutoLogoutViewController.m */; };
+		E1201982178259AD00898AB3 /* AutoLogoutViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = E1201980178259AD00898AB3 /* AutoLogoutViewController.xib */; };
+		E1201987178259E700898AB3 /* ResetMasterPasswordViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E1201985178259E700898AB3 /* ResetMasterPasswordViewController.m */; };
+		E1201988178259E700898AB3 /* ResetMasterPasswordViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = E1201986178259E700898AB3 /* ResetMasterPasswordViewController.xib */; };
+		E120198C17825A5C00898AB3 /* CustomSwitchCell.m in Sources */ = {isa = PBXBuildFile; fileRef = E120198B17825A5C00898AB3 /* CustomSwitchCell.m */; };
+		E120199117825ABC00898AB3 /* CustomSwitchCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = E120199017825ABC00898AB3 /* CustomSwitchCell.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +61,42 @@
 		E120193B1782568100898AB3 /* QCViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = QCViewController.h; sourceTree = "<group>"; };
 		E120193C1782568100898AB3 /* QCViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = QCViewController.m; sourceTree = "<group>"; };
 		E120193F1782568100898AB3 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/QCViewController.xib; sourceTree = "<group>"; };
+		E12019481782578200898AB3 /* SignInViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SignInViewController.h; sourceTree = "<group>"; };
+		E12019491782578200898AB3 /* SignInViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SignInViewController.m; sourceTree = "<group>"; };
+		E120194A1782578200898AB3 /* SignInViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SignInViewController.xib; sourceTree = "<group>"; };
+		E120194E178257D300898AB3 /* CreateAccountViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CreateAccountViewController.h; sourceTree = "<group>"; };
+		E120194F178257D300898AB3 /* CreateAccountViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CreateAccountViewController.m; sourceTree = "<group>"; };
+		E1201950178257D300898AB3 /* CreateAccountViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CreateAccountViewController.xib; sourceTree = "<group>"; };
+		E12019541782582300898AB3 /* PasswordFeedViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PasswordFeedViewController.h; sourceTree = "<group>"; };
+		E12019551782582300898AB3 /* PasswordFeedViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PasswordFeedViewController.m; sourceTree = "<group>"; };
+		E12019561782582300898AB3 /* PasswordFeedViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = PasswordFeedViewController.xib; sourceTree = "<group>"; };
+		E120195A1782587300898AB3 /* HomeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HomeViewController.h; sourceTree = "<group>"; };
+		E120195B1782587300898AB3 /* HomeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HomeViewController.m; sourceTree = "<group>"; };
+		E120195C1782587300898AB3 /* HomeViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = HomeViewController.xib; sourceTree = "<group>"; };
+		E1201960178258C800898AB3 /* AddLockerViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AddLockerViewController.h; sourceTree = "<group>"; };
+		E1201961178258C800898AB3 /* AddLockerViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AddLockerViewController.m; sourceTree = "<group>"; };
+		E1201962178258C800898AB3 /* AddLockerViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = AddLockerViewController.xib; sourceTree = "<group>"; };
+		E1201966178258E400898AB3 /* PasswordItemViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PasswordItemViewController.h; sourceTree = "<group>"; };
+		E1201967178258E400898AB3 /* PasswordItemViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PasswordItemViewController.m; sourceTree = "<group>"; };
+		E1201968178258E400898AB3 /* PasswordItemViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = PasswordItemViewController.xib; sourceTree = "<group>"; };
+		E120196C178258FE00898AB3 /* AddPasswordViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AddPasswordViewController.h; sourceTree = "<group>"; };
+		E120196D178258FE00898AB3 /* AddPasswordViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AddPasswordViewController.m; sourceTree = "<group>"; };
+		E120196E178258FE00898AB3 /* AddPasswordViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = AddPasswordViewController.xib; sourceTree = "<group>"; };
+		E12019721782592A00898AB3 /* EditPasswordViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EditPasswordViewController.h; sourceTree = "<group>"; };
+		E12019731782592A00898AB3 /* EditPasswordViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EditPasswordViewController.m; sourceTree = "<group>"; };
+		E12019741782592A00898AB3 /* EditPasswordViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = EditPasswordViewController.xib; sourceTree = "<group>"; };
+		E12019781782595A00898AB3 /* SettingsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SettingsViewController.h; sourceTree = "<group>"; };
+		E12019791782595A00898AB3 /* SettingsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SettingsViewController.m; sourceTree = "<group>"; };
+		E120197A1782595A00898AB3 /* SettingsViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SettingsViewController.xib; sourceTree = "<group>"; };
+		E120197E178259AD00898AB3 /* AutoLogoutViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AutoLogoutViewController.h; sourceTree = "<group>"; };
+		E120197F178259AD00898AB3 /* AutoLogoutViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AutoLogoutViewController.m; sourceTree = "<group>"; };
+		E1201980178259AD00898AB3 /* AutoLogoutViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = AutoLogoutViewController.xib; sourceTree = "<group>"; };
+		E1201984178259E700898AB3 /* ResetMasterPasswordViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ResetMasterPasswordViewController.h; sourceTree = "<group>"; };
+		E1201985178259E700898AB3 /* ResetMasterPasswordViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ResetMasterPasswordViewController.m; sourceTree = "<group>"; };
+		E1201986178259E700898AB3 /* ResetMasterPasswordViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ResetMasterPasswordViewController.xib; sourceTree = "<group>"; };
+		E120198A17825A5C00898AB3 /* CustomSwitchCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CustomSwitchCell.h; sourceTree = "<group>"; };
+		E120198B17825A5C00898AB3 /* CustomSwitchCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CustomSwitchCell.m; sourceTree = "<group>"; };
+		E120199017825ABC00898AB3 /* CustomSwitchCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CustomSwitchCell.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,11 +143,19 @@
 		E12019291782568100898AB3 /* PasswordApp070113 */ = {
 			isa = PBXGroup;
 			children = (
-				E12019321782568100898AB3 /* QCAppDelegate.h */,
-				E12019331782568100898AB3 /* QCAppDelegate.m */,
-				E120193B1782568100898AB3 /* QCViewController.h */,
-				E120193C1782568100898AB3 /* QCViewController.m */,
-				E120193E1782568100898AB3 /* QCViewController.xib */,
+				E12019471782572200898AB3 /* IntroAnimation */,
+				E1201953178257D700898AB3 /* CreateAccount */,
+				E120194D1782578500898AB3 /* SignIn */,
+				E120195F1782588400898AB3 /* HomeView */,
+				E1201965178258CF00898AB3 /* AddLocker */,
+				E12019711782590200898AB3 /* AddPassword */,
+				E12019591782582B00898AB3 /* PasswordFeed */,
+				E120196B178258EA00898AB3 /* PasswordItem */,
+				E120197D1782596000898AB3 /* Settings */,
+				E1201989178259EF00898AB3 /* ResetMaster */,
+				E1201983178259B600898AB3 /* AutoLogout */,
+				E12019771782593200898AB3 /* EditPassword */,
+				E12019461782569000898AB3 /* Initialization */,
 				E120192A1782568100898AB3 /* Supporting Files */,
 			);
 			path = PasswordApp070113;
@@ -105,6 +173,148 @@
 				E12019391782568100898AB3 /* Default-568h@2x.png */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		E12019461782569000898AB3 /* Initialization */ = {
+			isa = PBXGroup;
+			children = (
+				E12019321782568100898AB3 /* QCAppDelegate.h */,
+				E12019331782568100898AB3 /* QCAppDelegate.m */,
+			);
+			name = Initialization;
+			sourceTree = "<group>";
+		};
+		E12019471782572200898AB3 /* IntroAnimation */ = {
+			isa = PBXGroup;
+			children = (
+				E120193B1782568100898AB3 /* QCViewController.h */,
+				E120193C1782568100898AB3 /* QCViewController.m */,
+				E120193E1782568100898AB3 /* QCViewController.xib */,
+			);
+			name = IntroAnimation;
+			sourceTree = "<group>";
+		};
+		E120194D1782578500898AB3 /* SignIn */ = {
+			isa = PBXGroup;
+			children = (
+				E12019481782578200898AB3 /* SignInViewController.h */,
+				E12019491782578200898AB3 /* SignInViewController.m */,
+				E120194A1782578200898AB3 /* SignInViewController.xib */,
+			);
+			name = SignIn;
+			path = ..;
+			sourceTree = "<group>";
+		};
+		E1201953178257D700898AB3 /* CreateAccount */ = {
+			isa = PBXGroup;
+			children = (
+				E120194E178257D300898AB3 /* CreateAccountViewController.h */,
+				E120194F178257D300898AB3 /* CreateAccountViewController.m */,
+				E1201950178257D300898AB3 /* CreateAccountViewController.xib */,
+			);
+			name = CreateAccount;
+			path = ..;
+			sourceTree = "<group>";
+		};
+		E12019591782582B00898AB3 /* PasswordFeed */ = {
+			isa = PBXGroup;
+			children = (
+				E12019541782582300898AB3 /* PasswordFeedViewController.h */,
+				E12019551782582300898AB3 /* PasswordFeedViewController.m */,
+				E12019561782582300898AB3 /* PasswordFeedViewController.xib */,
+			);
+			name = PasswordFeed;
+			sourceTree = "<group>";
+		};
+		E120195F1782588400898AB3 /* HomeView */ = {
+			isa = PBXGroup;
+			children = (
+				E120195A1782587300898AB3 /* HomeViewController.h */,
+				E120195B1782587300898AB3 /* HomeViewController.m */,
+				E120195C1782587300898AB3 /* HomeViewController.xib */,
+			);
+			name = HomeView;
+			sourceTree = "<group>";
+		};
+		E1201965178258CF00898AB3 /* AddLocker */ = {
+			isa = PBXGroup;
+			children = (
+				E1201960178258C800898AB3 /* AddLockerViewController.h */,
+				E1201961178258C800898AB3 /* AddLockerViewController.m */,
+				E1201962178258C800898AB3 /* AddLockerViewController.xib */,
+			);
+			name = AddLocker;
+			sourceTree = "<group>";
+		};
+		E120196B178258EA00898AB3 /* PasswordItem */ = {
+			isa = PBXGroup;
+			children = (
+				E1201966178258E400898AB3 /* PasswordItemViewController.h */,
+				E1201967178258E400898AB3 /* PasswordItemViewController.m */,
+				E1201968178258E400898AB3 /* PasswordItemViewController.xib */,
+			);
+			name = PasswordItem;
+			sourceTree = "<group>";
+		};
+		E12019711782590200898AB3 /* AddPassword */ = {
+			isa = PBXGroup;
+			children = (
+				E120196C178258FE00898AB3 /* AddPasswordViewController.h */,
+				E120196D178258FE00898AB3 /* AddPasswordViewController.m */,
+				E120196E178258FE00898AB3 /* AddPasswordViewController.xib */,
+			);
+			name = AddPassword;
+			sourceTree = "<group>";
+		};
+		E12019771782593200898AB3 /* EditPassword */ = {
+			isa = PBXGroup;
+			children = (
+				E12019721782592A00898AB3 /* EditPasswordViewController.h */,
+				E12019731782592A00898AB3 /* EditPasswordViewController.m */,
+				E12019741782592A00898AB3 /* EditPasswordViewController.xib */,
+			);
+			name = EditPassword;
+			sourceTree = "<group>";
+		};
+		E120197D1782596000898AB3 /* Settings */ = {
+			isa = PBXGroup;
+			children = (
+				E12019781782595A00898AB3 /* SettingsViewController.h */,
+				E12019791782595A00898AB3 /* SettingsViewController.m */,
+				E120197A1782595A00898AB3 /* SettingsViewController.xib */,
+				E120198D17825A6500898AB3 /* SwitchCell */,
+			);
+			name = Settings;
+			sourceTree = "<group>";
+		};
+		E1201983178259B600898AB3 /* AutoLogout */ = {
+			isa = PBXGroup;
+			children = (
+				E120197E178259AD00898AB3 /* AutoLogoutViewController.h */,
+				E120197F178259AD00898AB3 /* AutoLogoutViewController.m */,
+				E1201980178259AD00898AB3 /* AutoLogoutViewController.xib */,
+			);
+			name = AutoLogout;
+			sourceTree = "<group>";
+		};
+		E1201989178259EF00898AB3 /* ResetMaster */ = {
+			isa = PBXGroup;
+			children = (
+				E1201984178259E700898AB3 /* ResetMasterPasswordViewController.h */,
+				E1201985178259E700898AB3 /* ResetMasterPasswordViewController.m */,
+				E1201986178259E700898AB3 /* ResetMasterPasswordViewController.xib */,
+			);
+			name = ResetMaster;
+			sourceTree = "<group>";
+		};
+		E120198D17825A6500898AB3 /* SwitchCell */ = {
+			isa = PBXGroup;
+			children = (
+				E120198A17825A5C00898AB3 /* CustomSwitchCell.h */,
+				E120198B17825A5C00898AB3 /* CustomSwitchCell.m */,
+				E120199017825ABC00898AB3 /* CustomSwitchCell.xib */,
+			);
+			name = SwitchCell;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -164,6 +374,18 @@
 				E12019381782568100898AB3 /* Default@2x.png in Resources */,
 				E120193A1782568100898AB3 /* Default-568h@2x.png in Resources */,
 				E12019401782568100898AB3 /* QCViewController.xib in Resources */,
+				E120194C1782578200898AB3 /* SignInViewController.xib in Resources */,
+				E1201952178257D300898AB3 /* CreateAccountViewController.xib in Resources */,
+				E12019581782582300898AB3 /* PasswordFeedViewController.xib in Resources */,
+				E120195E1782587300898AB3 /* HomeViewController.xib in Resources */,
+				E1201964178258C800898AB3 /* AddLockerViewController.xib in Resources */,
+				E120196A178258E400898AB3 /* PasswordItemViewController.xib in Resources */,
+				E1201970178258FE00898AB3 /* AddPasswordViewController.xib in Resources */,
+				E12019761782592A00898AB3 /* EditPasswordViewController.xib in Resources */,
+				E120197C1782595A00898AB3 /* SettingsViewController.xib in Resources */,
+				E1201982178259AD00898AB3 /* AutoLogoutViewController.xib in Resources */,
+				E1201988178259E700898AB3 /* ResetMasterPasswordViewController.xib in Resources */,
+				E120199117825ABC00898AB3 /* CustomSwitchCell.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -177,6 +399,18 @@
 				E12019301782568100898AB3 /* main.m in Sources */,
 				E12019341782568100898AB3 /* QCAppDelegate.m in Sources */,
 				E120193D1782568100898AB3 /* QCViewController.m in Sources */,
+				E120194B1782578200898AB3 /* SignInViewController.m in Sources */,
+				E1201951178257D300898AB3 /* CreateAccountViewController.m in Sources */,
+				E12019571782582300898AB3 /* PasswordFeedViewController.m in Sources */,
+				E120195D1782587300898AB3 /* HomeViewController.m in Sources */,
+				E1201963178258C800898AB3 /* AddLockerViewController.m in Sources */,
+				E1201969178258E400898AB3 /* PasswordItemViewController.m in Sources */,
+				E120196F178258FE00898AB3 /* AddPasswordViewController.m in Sources */,
+				E12019751782592A00898AB3 /* EditPasswordViewController.m in Sources */,
+				E120197B1782595A00898AB3 /* SettingsViewController.m in Sources */,
+				E1201981178259AD00898AB3 /* AutoLogoutViewController.m in Sources */,
+				E1201987178259E700898AB3 /* ResetMasterPasswordViewController.m in Sources */,
+				E120198C17825A5C00898AB3 /* CustomSwitchCell.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
